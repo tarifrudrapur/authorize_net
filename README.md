@@ -3,7 +3,15 @@
 </div>
 
 
-## Setup and run
+## Setup Database
+
+1. Create database `chapter24`
+2. import `database.sql` in `chapter24`
+3. Update database credentials in `server/util/constants.js`
+
+
+
+## Setup App
 
 1. Clone this repo using `git clone https://github.com/tarifrudrapur/bis-authorize_net.git`
 2. Move to the appropriate directory: `cd authorize_net`.<br />
