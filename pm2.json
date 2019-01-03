@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "react-app",
+      "script": "npm",
+      "args": "run start:production"
+    }
+  ]
+}
